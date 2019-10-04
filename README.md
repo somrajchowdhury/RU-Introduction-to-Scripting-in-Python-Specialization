@@ -1,5 +1,5 @@
 <p align="center">
- <a href="#"><img src='https://i.imgur.com/gnEDYKD.png' alt='RU Logo' width=120></a>
+ <a href="#"><img src='https://i.imgur.com/gnEDYKD.png' alt='RU Logo' width=160></a>
  <h2 align="center">Rice University</h2>
  <div align='center'>
   <sub>in association with</sub>
@@ -24,5 +24,5 @@
 </div>
 
 <p align="center">
- <sub><b>Projects are implemented using <a href="#"><img src='https://i.imgur.com/QbZcwbk.png' alt='python logo' width=20></a> </b> 3.x and some libraries.</sub>
+ <sub><b>Projects are implemented using </b><a href="#"><img src='https://i.imgur.com/QbZcwbk.png' alt='python logo' width=10></a> <b> 3.x and some libraries.</b></sub>
 </p>
