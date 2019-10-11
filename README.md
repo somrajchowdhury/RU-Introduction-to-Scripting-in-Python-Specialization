@@ -28,6 +28,6 @@
 </p>
 
 <p align="center">
- <img src="https://i.imgur.com/Jb8Y6ML.png" width=500>
- <sub>Certificate of Completion</sub>
+ <img src="https://i.imgur.com/Jb8Y6ML.png" width=500><br/>
+ <sub><b>Certificate of Completion</b></sub>
 </p>
