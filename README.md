@@ -26,3 +26,8 @@
 <p align="center">
  <sub><b>Projects are implemented using </b><a href="#"><img src='https://i.imgur.com/QbZcwbk.png' alt='python logo' width=10></a> <b> 3.x and some libraries.</b></sub>
 </p>
+
+<p align="center">
+ <img src="https://i.imgur.com/Jb8Y6ML.png" width=500>
+ <sub>Certificate of Completion</sub>
+</p>
